@@ -8,20 +8,28 @@ body
 		background: white;
 		padding: 10px;
 		float: none;
-		border-radius: 15px;
+		border-radius: 10px;
 	}
 
 
 #player1_name , #player2_name
 {
 	display: inline-block;
-	margin-left: 20px;
+	margin-left: 10px;
 }
-#word
+#number1
 {
 	width: 60%;
 }
-#word_display
+#number2
+{
+	width: 60%;
+}
+#number1_display
+{
+	letter-spacing: 5px;
+}
+#number2_display
 {
 	letter-spacing: 5px;
 }
